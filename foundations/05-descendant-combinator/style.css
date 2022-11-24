@@ -1,0 +1,9 @@
+/* syle.css */
+
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+
+}

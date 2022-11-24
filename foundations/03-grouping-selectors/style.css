@@ -1,0 +1,24 @@
+/*style.css*/
+.first-element {
+    background-color: black;
+    color: white;
+}
+
+.second-element {
+    background-color: #ffff99;
+    }
+
+/* This is not a grouping selector.  Look at the code below that
+is not commented out. Classes are separated by a comma for common
+parameters.
+
+button {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}    
+*/
+
+.first-element, .second-element {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
